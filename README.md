@@ -37,5 +37,9 @@ This repository is licensed under `GNU GPLv3`. See [LICENSE](LICENSE) for more i
 ## Include some other sub-sections that you like!
 Contributing, Known Issues, Debugging, Documentation, Wiki Pages, Socials, Ko-fi, you name it!
 
+## Maybe add some screenshots of your project!
+Here's a picture of a dog to get you started.
+![Closeup of a dog's nose](https://1.bp.blogspot.com/-NerSI3BQffg/W3__-QC8ZBI/AAAAAAAAAmg/6woNJtlCVFwuDukvFkIif2e6QG_9CrwFgCLcBGAs/s1600/dog-nose.jpg)
+
 ## Also consider adding a docs folder!
 [docs](docs) folder, to add more documentation to your repo!
